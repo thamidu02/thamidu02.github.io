@@ -16,7 +16,10 @@ plugins:
 
 # Navigation (Minima uses header_pages)
 header_pages:
+  - index.md
   - about.md
+  - projects.md
+  - posts.md
 
 # Markdown options
 markdown: kramdown
